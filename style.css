@@ -1,0 +1,30 @@
+
+body {
+    background-image: url(images/covid.jpg);
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+    margin-top: 100px;
+    color:black;
+}
+
+.search-box{
+    text-align: center;
+    margin: 30px;
+}
+
+i{
+    margin-left: 23px;
+    margin-top: 23px;
+}
+.card{
+    background-color: rgb(5, 79, 82);
+    color: white;
+}
+
+.card:hover{
+    box-shadow: 0px 0px 28px -6px rgba(0,0,0,0.71);
+}
+
